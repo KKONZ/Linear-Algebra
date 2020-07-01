@@ -1,7 +1,7 @@
 # Complete linear algebra: theory and implementation
-__https://www.udemy.com/course/linear-algebra-theory-and-implementation/__
+_https://www.udemy.com/course/linear-algebra-theory-and-implementation/_
 
-Description
+__Description__
 
 You need to learn linear algebra!
 
@@ -15,33 +15,33 @@ If you are interested in learning the mathematical concepts linear algebra and m
 
 Unique aspects of this course
 
-    Clear and comprehensible explanations of concepts and theories in linear algebra.
+* Clear and comprehensible explanations of concepts and theories in linear algebra.
 
-    Several distinct explanations of the same ideas, which is a proven technique for learning.
+* Several distinct explanations of the same ideas, which is a proven technique for learning.
 
-    Visualization using graphs, numbers, and spaces that strengthens the geometric intuition of linear algebra.
+* Visualization using graphs, numbers, and spaces that strengthens the geometric intuition of linear algebra.
 
-    Implementations in MATLAB and Python. Com'on, in the real world, you never solve math problems by hand! You need to know how to implement math in software!
+* Implementations in MATLAB and Python. Com'on, in the real world, you never solve math problems by hand! You need to know how to implement math in software!
 
-    Beginning to intermediate topics, including vectors, matrix multiplications, least-squares projections, eigendecomposition, and singular-value decomposition.
+* Beginning to intermediate topics, including vectors, matrix multiplications, least-squares projections, eigendecomposition, and singular-value decomposition.
 
-    Strong focus on modern applications-oriented aspects of linear algebra and matrix analysis.
+* Strong focus on modern applications-oriented aspects of linear algebra and matrix analysis.
 
-    Intuitive visual explanations of diagonalization, eigenvalues and eigenvectors, and singular value decomposition.
+* Intuitive visual explanations of diagonalization, eigenvalues and eigenvectors, and singular value decomposition.
 
 Benefits of learning linear algebra
 
-    Understand statistics including least-squares, regression, and multivariate analyses.
+* Understand statistics including least-squares, regression, and multivariate analyses.
 
-    Improve mathematical simulations in engineering, computational biology, finance, and physics.
+* Improve mathematical simulations in engineering, computational biology, finance, and physics.
 
-    Understand data compression and dimension-reduction (PCA, SVD, eigendecomposition).
+* Understand data compression and dimension-reduction (PCA, SVD, eigendecomposition).
 
-    Understand the math underlying machine learning and linear classification algorithms.
+* Understand the math underlying machine learning and linear classification algorithms.
 
-    Deeper knowledge of signal processing methods, particularly filtering and multivariate subspace methods.
+* Deeper knowledge of signal processing methods, particularly filtering and multivariate subspace methods.
 
-    Explore the link between linear algebra, matrices, and geometry.
+* Explore the link between linear algebra, matrices, and geometry.
 
 Why I am qualified to teach this course:
 
@@ -58,14 +58,23 @@ Mike
 
 Who this course is for:
 
-    Anyone interested in learning about matrices and vectors
-    Students who want supplemental instruction/practice for a linear algebra course
-    Engineers who want to refresh their knowledge of matrices and decompositions
-    Biologists who want to learn more about the math behind computational biology
-    Data scientists (linear algebra is everywhere in data science!)
-    Statisticians
-    Someone who wants to know the important math underlying machine learning
-    Someone who studied theoretical linear algebra and who wants to implement concepts in computers
-    Computational scientists (statistics, biological, engineering, neuroscience, psychology, physics, etc.)
-    Someone who wants to learn about eigendecomposition, diagonalization, and singular value decomposition!
+* Anyone interested in learning about matrices and vectors
+
+* Students who want supplemental instruction/practice for a linear algebra course
+
+* Engineers who want to refresh their knowledge of matrices and decompositions
+
+* Biologists who want to learn more about the math behind computational biology
+
+* Data scientists (linear algebra is everywhere in data science!)
+
+* Statisticians
+
+* Someone who wants to know the important math underlying machine learning
+
+* Someone who studied theoretical linear algebra and who wants to implement concepts in computers
+
+* Computational scientists (statistics, biological, engineering, neuroscience, psychology, physics, etc.)
+
+* Someone who wants to learn about eigendecomposition, diagonalization, and singular value decomposition!
 
