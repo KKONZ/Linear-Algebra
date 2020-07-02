@@ -78,3 +78,33 @@ Who this course is for:
 
 * Someone who wants to learn about eigendecomposition, diagonalization, and singular value decomposition!
 
+
+__Sections:__
+
+1) Introductions
+
+2) Vectors
+
+3) Introduction to matrices
+
+4) Matrix multiplications
+
+5) Matrix rank
+
+6) Matrix spaces
+
+7) Solving systems of equations
+
+8) Matrix determinant
+
+9) Matrix inverse
+
+10) Projections and orthogonalization
+
+11) Least-squares for model-fitting in statistics
+
+12) Eigendecomposition
+
+13) Singular value decomposition
+
+14) Quadratic form and definiteness
